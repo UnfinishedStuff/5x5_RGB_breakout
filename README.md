@@ -2,6 +2,8 @@
 
 This is a home-made library for the Pimoroni 5x5 RGB breakout.  I really just wanted to write one myself for the challenge.
 
+Current state:  roughly functional, but needs documentation and additional functions.
+
 
 
 
